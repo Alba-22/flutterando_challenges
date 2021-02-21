@@ -13,4 +13,5 @@ https://www.figma.com/file/Qw8hvqw59inGfGu8VlY7bk/Pokedex?node-id=28%3A15
 ## Actual State of Challenge(not finished)
 Made in February 20th, 2021 
 Actual amount of time: 5h/6h
+
 <img src="screenshots/actual_state.png" style="width:30%">
