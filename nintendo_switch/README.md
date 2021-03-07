@@ -1,16 +1,17 @@
-# nintendo_switch
+# Nintendo Switch Challenge
 
-A new Flutter project.
+Challenge proposed by Flutterando community.
+Figma layout and initial challenge made by Maxweel Freitas.
+https://github.com/MaxweelFreitas/NintendoSwt
 
-## Getting Started
+## Mockup Link
+https://www.figma.com/file/EVeqd5Nlgr3MNE2JyespMj/NintendoSwt-Flutterando?node-id=0%3A1
 
-This project is a starting point for a Flutter application.
+## Mockup Objetive Screenshot
+<img src="screenshots/mockup.png" style="width:30%">
 
-A few resources to get you started if this is your first Flutter project:
+## Actual State of Challenge
+Made in March 07th, 2021 
+Total amount of time: 3h
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/actual_state.png" style="width:30%">
